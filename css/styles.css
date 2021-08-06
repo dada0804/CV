@@ -56,8 +56,8 @@ hr{
 }
 
 .photo{
-  width: 150px;
-  height:150px;
+  width: 50%;
+  
   border-radius: 50%;
   margin-top: 50px;
 }
